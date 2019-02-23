@@ -1,0 +1,14 @@
+//top10 算法编程面试题
+https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
+//程序员找工作黑名单
+https://github.com/shengxinjing/programmer-job-blacklist
+//Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识
+https://github.com/Snailclimb/JavaGuide
+//编程之法：面试和算法心得
+https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/00.01.html
+//算法珠玑--一个最精简的题库
+https://soulmachine.gitbooks.io/algorithm-essentials/java/
+//小土刀面试刷题笔记
+https://wdxtub.com/interview/14520594642530.html
+//机器学习面试题
+https://github.com/Sroy20/machine-learning-interview-questions

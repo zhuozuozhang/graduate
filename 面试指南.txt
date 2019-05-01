@@ -1,14 +1,20 @@
-//top10 Ëã·¨±à³ÌÃæÊÔÌâ
+//top10 ç®—æ³•ç¼–ç¨‹é¢è¯•é¢˜
 https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
-//³ÌĞòÔ±ÕÒ¹¤×÷ºÚÃûµ¥
+//ç¨‹åºå‘˜æ‰¾å·¥ä½œé»‘åå•
 https://github.com/shengxinjing/programmer-job-blacklist
-//JavaÑ§Ï°+ÃæÊÔÖ¸ÄÏ¡¿ Ò»·İº­¸Ç´ó²¿·ÖJava³ÌĞòÔ±ËùĞèÒªÕÆÎÕµÄºËĞÄÖªÊ¶
+//Javaå­¦ä¹ +é¢è¯•æŒ‡å—ã€‘ ä¸€ä»½æ¶µç›–å¤§éƒ¨åˆ†Javaç¨‹åºå‘˜æ‰€éœ€è¦æŒæ¡çš„æ ¸å¿ƒçŸ¥è¯†
 https://github.com/Snailclimb/JavaGuide
-//±à³ÌÖ®·¨£ºÃæÊÔºÍËã·¨ĞÄµÃ
+//ç¼–ç¨‹ä¹‹æ³•ï¼šé¢è¯•å’Œç®—æ³•å¿ƒå¾—
 https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/00.01.html
-//Ëã·¨Öéçá--Ò»¸ö×î¾«¼òµÄÌâ¿â
+//ç®—æ³•ç ç‘--ä¸€ä¸ªæœ€ç²¾ç®€çš„é¢˜åº“
 https://soulmachine.gitbooks.io/algorithm-essentials/java/
-//Ğ¡ÍÁµ¶ÃæÊÔË¢Ìâ±Ê¼Ç
+//å°åœŸåˆ€é¢è¯•åˆ·é¢˜ç¬”è®°
 https://wdxtub.com/interview/14520594642530.html
-//»úÆ÷Ñ§Ï°ÃæÊÔÌâ
+//æœºå™¨å­¦ä¹ é¢è¯•é¢˜
 https://github.com/Sroy20/machine-learning-interview-questions
+
+
+//ä¿¡æ¯å®‰å…¨é¢è¯•é¢˜
+https://github.com/SecYouth/sec-jobs
+https://github.com/Leezj9671/Pentest_Interview
+
